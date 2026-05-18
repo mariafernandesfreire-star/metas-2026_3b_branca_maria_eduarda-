@@ -6,7 +6,7 @@
   --branco: #ffffff;
   --botao-ativo: #6216E0;
   --botao-inativo: #A416E0;
-  --texto-fundo: #e06b94;
+  --texto-fundo: #e06b94;}
 
 
   body {
@@ -27,7 +27,7 @@ font-family:'Times New Roman', Times, serif;
 
 .titulo-principal{
 text-align: left;
-width: 100%
+width: 100%;
 font-size:32px;
 }
 .botao{
@@ -40,9 +40,9 @@ padding:1em;
 font-size:18px;
 align-items: center;
 width:100%;
-border- bottom:4px solid var(--botao-ativo);
+border-bottom:4px solid var(--botao-ativo);
 border-left: 2px solid var(--botao-ativo);
-border-right:2px solid var (--botao-ativo);
+border-right:2px solid var(--botao-ativo);
 border-top: none;
 }
  
@@ -60,7 +60,7 @@ border-top: none;
 
 }
 .abas-textos{
-  backround-color:var(--texto-fundo);
+  background-color:var(--texto-fundo);
   padding: 40px;
   border-radius:00 40px 40px;
 }
@@ -117,6 +117,7 @@ border-top: none;
      .botao:last-child{
      border-radius: 0 40px 00;
    }
+  }
 
 
 
