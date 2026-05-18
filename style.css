@@ -62,7 +62,7 @@ border-top: none;
 .abas-textos{
   background-color:var(--texto-fundo);
   padding: 40px;
-  border-radius:00 40px 40px;
+  border-radius:0 0 40px 40px;
 }
 
 .aba-conteudo.ativo{
@@ -112,10 +112,10 @@ border-top: none;
      display: flex;
    }
    .botao:first-child{
-     border-radius: 40px 000;
+     border-radius: 40px 0 0 0;
    }
      .botao:last-child{
-     border-radius: 0 40px 00;
+     border-radius: 0 40px 0 0;
    }
   }
 
