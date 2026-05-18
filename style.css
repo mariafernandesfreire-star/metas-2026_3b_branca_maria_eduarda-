@@ -31,7 +31,7 @@ width: 100%
 font-size:32px;
 }
 .botao{
-  font-family:'times new roman', 'Times New Roman', Times, serif;
+  font-family:'Times New Roman', 'Times New Roman', Times, serif;
   background-color: var(--botao-inativo);
   color:var(--branco);
 display:flex;
